@@ -1,0 +1,7 @@
+.label {
+    transition: scale 1s cubic-bezier(0.215, 0.610, 0.355, 1.000);
+}
+
+.card:hover .label  {
+    transform: scale(1.03);
+}
