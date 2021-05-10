@@ -1,4 +1,4 @@
-# The Shoppies: Movie awards for entrepreneurs
+<h1 align="center">The Shoppies: Movie awards for entrepreneurs</h1>
 <div align="center">Shopify UX & Web Developer Intern Challenge Fall 2021
 
 <p>
