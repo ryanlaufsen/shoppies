@@ -3,7 +3,7 @@
 
 <p>
 <br/>
-<img src="https://www.flaticon.com/svg/vstatic/svg/1038/1038100.svg?token=exp=1620623419~hmac=34d6e31275fdcfe77b4cf829bb177acd" alt="drawing" width="200"/>
+[<img src="https://www.flaticon.com/svg/vstatic/svg/1038/1038100.svg?token=exp=1620623419~hmac=34d6e31275fdcfe77b4cf829bb177acd" alt="My Shoppies" width="160"/>](https://nominate-shoppies.netlify.app/)
 </>
 
 Demo page here: https://nominate-shoppies.netlify.app/</div>
